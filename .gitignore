@@ -1,7 +1,0 @@
-.DS_Store
-artifacts/*
-!.gitkeep
-__pycache__/
-*.pyc
-.ipynb_checkpoints/
-.env
